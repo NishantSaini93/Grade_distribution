@@ -8,9 +8,9 @@ In addition to that it provide  following functionality:
 5> Change Pass/Fail point
 
 How to run:
-You will need python 3.6(tested on this)
-Run grades.py
-Place txt files in same directory
+ You will need python 3.6(tested on this)
+ Run grades.py
+ Place txt files in same directory
 
 
 Input:
