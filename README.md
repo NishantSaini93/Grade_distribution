@@ -1,5 +1,5 @@
 # Grade_distribution
-This project calculate and displayes grades.
+This project calculate and displays grades.
 
 In addition to that it provide  following functionality:
 
